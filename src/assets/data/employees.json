@@ -1,0 +1,7 @@
+[
+    {"id": 1, "firstName": "Andrew", "lastName": "McCarthy", "age": 30},
+    {"id": 2, "firstName": "Brandon", "lastName": "Andrews", "age": 25},
+    {"id": 3, "firstName": "Christina", "lastName": "Singer", "age": 26},
+    {"id": 4, "firstName": "Elena", "lastName": "Devlin", "age": 28},
+    {"id": 4, "firstName": "Felicia", "lastName": "Hawthorne", "age": 32}
+  ]
